@@ -1,0 +1,7 @@
+openai
+langchain
+jupyter
+python-dotenv
+numexpr
+google-search-results
+pydantic
