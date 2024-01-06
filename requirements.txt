@@ -2,6 +2,12 @@ openai
 langchain
 jupyter
 python-dotenv
+numpy
 numexpr
 google-search-results
 pydantic
+pandas
+matplotlib
+openpyxl
+wandb
+# vllm
