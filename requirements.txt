@@ -11,3 +11,5 @@ matplotlib
 openpyxl
 wandb
 # vllm
+anthropic
+langchain-openai
