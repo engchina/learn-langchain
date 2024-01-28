@@ -1,5 +1,8 @@
 openai
+anthropic
 langchain
+langchain-openai
+langchainhub
 jupyterlab
 python-dotenv
 numpy
@@ -11,5 +14,8 @@ matplotlib
 openpyxl
 wandb
 # vllm
-anthropic
-langchain-openai
+faiss-cpu
+chromadb
+redis
+spacy
+psycopg
