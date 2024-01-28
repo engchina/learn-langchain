@@ -1,0 +1,36 @@
+{
+    "name": null,
+    "memory": null,
+    "verbose": true,
+    "tags": null,
+    "metadata": null,
+    "prompt": {
+        "name": null,
+        "input_variables": [
+            "question"
+        ],
+        "input_types": {},
+        "output_parser": null,
+        "partial_variables": {},
+        "template": "Question: {question}\n \nAnswer: Let's think step by step.",
+        "template_format": "f-string",
+        "validate_template": false,
+        "_type": "prompt"
+    },
+    "llm": {
+        "model_name": "gpt-3.5-turbo",
+        "model": "gpt-3.5-turbo",
+        "stream": false,
+        "n": 1,
+        "temperature": 0.3,
+        "_type": "openai-chat"
+    },
+    "output_key": "text",
+    "output_parser": {
+        "name": null,
+        "_type": "default"
+    },
+    "return_final_only": true,
+    "llm_kwargs": {},
+    "_type": "llm_chain"
+}
